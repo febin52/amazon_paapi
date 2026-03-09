@@ -1,4 +1,4 @@
-library paapi5_flutter;
+library amazon_paapi5;
 
 export 'src/auth/aws_v4_signer.dart';
 export 'src/cache/memory_cache.dart';

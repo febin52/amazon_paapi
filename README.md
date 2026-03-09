@@ -1,4 +1,4 @@
-# paapi5_flutter
+# amazon_paapi5
 
 A production-ready Dart and Flutter SDK for the **Amazon Product Advertising API 5 (PAAPI 5)**.
 
@@ -19,12 +19,12 @@ Add the following to your `pubspec.yaml`:
 
 ```yaml
 dependencies:
-  paapi5_flutter: ^1.0.0
+  amazon_paapi5: ^1.0.0
 ```
 
 ## Quick Start
 ```dart
-import 'package:paapi5_flutter/paapi5_flutter.dart';
+import 'package:amazon_paapi5/amazon_paapi5.dart';
 
 void main() async {
   final client = PaapiClient(

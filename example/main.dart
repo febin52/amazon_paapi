@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:paapi5_flutter/paapi5_flutter.dart' hide Image;
+import 'package:amazon_paapi5/amazon_paapi5.dart' hide Image;
 
 void main() {
   runApp(const PaapiExampleApp());

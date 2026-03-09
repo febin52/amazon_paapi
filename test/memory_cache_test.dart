@@ -1,5 +1,5 @@
 import 'package:flutter_test/flutter_test.dart';
-import 'package:paapi5_flutter/paapi5_flutter.dart';
+import 'package:amazon_paapi5/amazon_paapi5.dart';
 
 void main() {
   group('MemoryCache', () {
