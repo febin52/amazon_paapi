@@ -1,0 +1,23 @@
+name: paapi5_flutter
+description: Amazon Product Advertising API v5 SDK for Dart & Flutter. Search products, retrieve pricing, images, and affiliate data with built-in AWS Signature V4 signing.
+version: 1.0.0
+homepage: https://github.com/yourrepo/paapi5_flutter
+repository: https://github.com/yourrepo/paapi5_flutter
+issue_tracker: https://github.com/yourrepo/paapi5_flutter/issues
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: ">=3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  crypto: ^3.0.3
+  intl: ^0.19.0
+  http: ^1.2.0
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  lints: ^3.0.0
+  flutter_lints: ^3.0.0

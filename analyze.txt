@@ -1,0 +1,21 @@
+﻿ERROR|COMPILE_TIME_ERROR|INVALID_ASSIGNMENT|D:\\Projects\\personal\\amazon_paapi5\\example\\main.dart|56|19|6|A value of type 'dynamic' can't be assigned to a variable of type 'SearchResult?'.
+ERROR|COMPILE_TIME_ERROR|AMBIGUOUS_IMPORT|D:\\Projects\\personal\\amazon_paapi5\\example\\main.dart|111|27|5|The name 'Image' is defined in the libraries 'package:flutter/src/widgets/image.dart (via package:flutter/material.dart)' and 'package:paapi5_flutter/src/models/image.dart (via package:paapi5_flutter/paapi5_flutter.dart)'.
+INFO|LINT|ALWAYS_PUT_CONTROL_BODY_ON_NEW_LINE|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\cache\\memory_cache.dart|60|19|6|Statement should be on a separate line.
+INFO|LINT|PUBLIC_MEMBER_API_DOCS|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\item_service.dart|13|21|6|Missing documentation for a public member.
+INFO|LINT|PUBLIC_MEMBER_API_DOCS|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\item_service.dart|14|16|10|Missing documentation for a public member.
+INFO|LINT|PUBLIC_MEMBER_API_DOCS|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\item_service.dart|15|16|11|Missing documentation for a public member.
+INFO|LINT|PUBLIC_MEMBER_API_DOCS|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\item_service.dart|16|21|10|Missing documentation for a public member.
+INFO|LINT|PUBLIC_MEMBER_API_DOCS|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\item_service.dart|17|21|11|Missing documentation for a public member.
+INFO|LINT|PUBLIC_MEMBER_API_DOCS|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\item_service.dart|18|21|11|Missing documentation for a public member.
+INFO|LINT|PUBLIC_MEMBER_API_DOCS|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\item_service.dart|19|21|5|Missing documentation for a public member.
+INFO|LINT|ALWAYS_PUT_CONTROL_BODY_ON_NEW_LINE|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\item_service.dart|47|25|6|Statement should be on a separate line.
+INFO|LINT|ALWAYS_PUT_CONTROL_BODY_ON_NEW_LINE|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\item_service.dart|71|25|6|Statement should be on a separate line.
+INFO|LINT|PUBLIC_MEMBER_API_DOCS|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\search_service.dart|13|21|6|Missing documentation for a public member.
+INFO|LINT|PUBLIC_MEMBER_API_DOCS|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\search_service.dart|14|16|10|Missing documentation for a public member.
+INFO|LINT|PUBLIC_MEMBER_API_DOCS|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\search_service.dart|15|16|11|Missing documentation for a public member.
+INFO|LINT|PUBLIC_MEMBER_API_DOCS|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\search_service.dart|16|21|10|Missing documentation for a public member.
+INFO|LINT|PUBLIC_MEMBER_API_DOCS|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\search_service.dart|17|21|11|Missing documentation for a public member.
+INFO|LINT|PUBLIC_MEMBER_API_DOCS|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\search_service.dart|18|21|11|Missing documentation for a public member.
+INFO|LINT|PUBLIC_MEMBER_API_DOCS|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\search_service.dart|19|21|5|Missing documentation for a public member.
+INFO|LINT|ALWAYS_PUT_CONTROL_BODY_ON_NEW_LINE|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\search_service.dart|49|25|6|Statement should be on a separate line.
+INFO|LINT|ALWAYS_PUT_CONTROL_BODY_ON_NEW_LINE|D:\\Projects\\personal\\amazon_paapi5\\lib\\src\\services\\search_service.dart|73|25|6|Statement should be on a separate line.
